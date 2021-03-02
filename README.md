@@ -19,7 +19,7 @@ Typescript
 Angular CLI
 
 ## Github Pages link
-You can view the live application by following this link 
+You can view the live application by following this link https://dianahub250.github.io/Git-search/.
 
 ## Contact information
 niyongogadidi@gmail.com
